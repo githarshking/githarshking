@@ -42,11 +42,9 @@ class HarshitRaj:
         "ai_powered":        "69% of portfolio",
         "production_grade":  "85% deployed",
         "multi_agent_systems": 4,
-        "jobs_db_analyzed":  "2,000+ IT roles",
-        "cv_accuracy":       "92%+ (ResNet50)",
     }
 
-    philosophy = "Build fast. Ship to production. Solve real problems."
+    philosophy = "Build with passion. Ship to production. Solve real problems."
 
     def what_makes_me_different(self):
         return [
@@ -100,8 +98,6 @@ class HarshitRaj:
 
 <p>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
 <img src="https://img.shields.io/badge/Room%20DB-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
@@ -357,6 +353,6 @@ class HarshitRaj:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,40:16213e,70:1a1a2e,100:0d0d0d&height=130&section=footer&animation=fadeIn"/>
 
-**⚡ Build fast. Ship to production. Solve real problems. 🤖**
+**⚡ Build quality products and Solve real problems. 🤖**
 
 </div>
